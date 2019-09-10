@@ -8,7 +8,7 @@ function setup() {
   vertex(50, 50);
   vertex(25, 100);
   vertex(30, 70);
-  endShape(CLOSE);
+  endShape();
 
   // strokeWeight(50);
   // point(width / 2, height / 2);
